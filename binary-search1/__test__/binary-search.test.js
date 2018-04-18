@@ -13,4 +13,9 @@ describe('Test cases to verify if binary search is correctly returning values ei
     const testArr1 = [1, 1, 2, 3, 5, 11];
     expect(binarySearch.binarySearch(testArr1, testVal1)).toEqual(-1);
   });
+  test('Test to verify if value is included if returns correct value', () => {
+    const testVal2 = 22;
+    const testArr2 = [5, 11, 22, 45, 65, 99, 101];
+    expect(binarySearch.binarySearch(testArr2, testVal2)).toEqual(2);
+  });
 });
