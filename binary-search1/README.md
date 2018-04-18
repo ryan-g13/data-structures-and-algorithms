@@ -6,4 +6,4 @@ Write a function that has an input of 2 parameters, the first being a sorted arr
 
 ## Solution
 
-![WhiteBoardImage]('./assets/401-WB-3.jpg')
+![WhiteBoardImage](assets/401-WB-3.jpg)
