@@ -5,4 +5,4 @@ Write a function called insertShiftArray which takes in an array and the value t
 
 ## Solution
 
-![WhiteBoardImage](/assets/401-WB-2.jpg)
+![WhiteBoardImage](assets/401-WB-2.jpg)
