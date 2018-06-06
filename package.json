@@ -1,7 +1,7 @@
 {
   "name": "02-environment",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a repository for data structures, alogrithms and whiteboarding solutions.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -19,5 +19,14 @@
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jest": "^21.15.0",
     "jest": "^22.4.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-g13/data-structures-and-algorithms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryan-g13/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/ryan-g13/data-structures-and-algorithms#readme"
 }
